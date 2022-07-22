@@ -1,0 +1,15 @@
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\bin\Debug\net6.0\BinaryArraySort.exe
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\bin\Debug\net6.0\BinaryArraySort.deps.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\bin\Debug\net6.0\BinaryArraySort.runtimeconfig.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\bin\Debug\net6.0\BinaryArraySort.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\bin\Debug\net6.0\ref\BinaryArraySort.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\bin\Debug\net6.0\BinaryArraySort.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.csproj.AssemblyReference.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.AssemblyInfoInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.AssemblyInfo.cs
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.csproj.CoreCompileInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\ref\BinaryArraySort.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\BinaryArraysort\BinaryArraySort\BinaryArraySort\obj\Debug\net6.0\BinaryArraySort.genruntimeconfig.cache
